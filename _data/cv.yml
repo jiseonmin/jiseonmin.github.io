@@ -26,7 +26,7 @@
       institution: Harvard University
       year: 2018 - 2022
       description:
-        - Advisors : Ariel Amir, Michael Desai
+        - Co-advised by Ariel Amir, Michael Desai
     - title: MS in Applied Mathematics
       institution: Harvard University
       year: 2018 - 2022
@@ -38,14 +38,11 @@
 - title: Selected Honors and Awards
   type: time_table
   contents:
-    - year: 2021 - 2022
-      items:
-        - Harvard NSF-Simons Qbio PhD Fellowship
-    - year: 2019, 2021
-      items:
-        - Certificate of Distinction in Teaching
+    - title: Harvard NSF-Simons Qbio PhD Fellowship
+      year: 2021 - 2022
+    - title: Certificate of Distinction in Teaching
+      year: 2019, 2021
       description:
         - Received as a teaching fellow of AM 203 and OEB 242 at Harvard.
-    - year: 2014 - 2018
-      items:
-        - Korean Presidential Science Scholarship
+    - title: Korean Presidential Science Scholarship
+      year: 2014 - 2018
