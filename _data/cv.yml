@@ -16,20 +16,23 @@
   type: time_table
   contents:
     - title: Postdoctoral Researcher
+      institution: Northeastern University
+      year: 2025.1 - present
+    - title: Postdoctoral Researcher
       institution: University of Oregon
-      year: 2023
+      year: 2022.9 - 2025.1
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Biology (MCO)
       institution: Harvard University
-      year: 2018 - 2022
+      year: 2018.9 - 2022.8
       description:
         - Co-advised by Ariel Amir, Michael Desai
     - title: MS in Applied Mathematics
       institution: Harvard University
-      year: 2018 - 2022
+      year: 2018.9 - 2022.8
 
     - title: BS in Physics
       institution: California Institute of Technology
@@ -41,8 +44,12 @@
     - title: Harvard NSF-Simons Qbio PhD Fellowship
       year: 2021 - 2022
     - title: Certificate of Distinction in Teaching
-      year: 2019, 2021
+      year: 2021
       description:
-        - Received as a teaching fellow of AM 203 and OEB 242 at Harvard.
+        - Received as a teaching fellow of OEB 242 at Harvard.
+    - title: Certificate of Distinction in Teaching
+      year: 2019
+      description:
+        - Received as a teaching fellow of AM 203 at Harvard.
     - title: Korean Presidential Science Scholarship
       year: 2014 - 2018
